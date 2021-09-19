@@ -1,4 +1,6 @@
+
 *.java
 *.css
 *.py
-
+*.css
+*.txt
